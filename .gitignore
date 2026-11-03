@@ -1,0 +1,7 @@
+target/
+out/
+.idea/
+*.iml
+server_storage/*
+!server_storage/.gitkeep
+*.log
